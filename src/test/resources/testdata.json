@@ -1,0 +1,20 @@
+{
+		"firstname" : "Ayah",
+		"lastname" : "Niematallah",
+		"email" : "ayahautomation@gmail.com" , 
+		"password" : "flytask789",
+		"Cities" : [
+					"Beijing",
+					"Dubai",
+					"Tokyo",
+					"London",
+					"Istanbul",
+					"Madrid",
+					"Paris",
+					"Barcelona",
+					"Venice",
+					"Washington",
+					"Cairo",
+					"Jeddah"
+				]
+}
